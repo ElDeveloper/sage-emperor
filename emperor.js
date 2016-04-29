@@ -62,7 +62,10 @@ var emperor = SAGE2_App.extend({
         'viewcontroller': './js/view-controller',
         'colorviewcontroller': './js/color-view-controller',
         'visibilitycontroller': './js/visibility-controller',
-        'color-editor': './js/color-editor'
+        'shapecontroller': './js/shape-controller',
+        'shape-editor': './js/shape-editor',
+        'color-editor': './js/color-editor',
+        'shapes': './js/shapes'
       },
       /*
         Libraries that are not AMD compatible need shim to declare their
